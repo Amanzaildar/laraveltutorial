@@ -13,7 +13,4 @@ rehnevkn
 ytjyjtytjytyt6rtj
 ytjjyujkytjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 ruletwghrtbv tgiortugriotooooooooooooooooooooooooooooooooooooo
-<<<<<<< HEAD
-=======
 git uqriegfvb earyyjtf
->>>>>>> module-3
